@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kanchi Saraf</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hello World👋, I'm Kanchi Saraf</h1>
+<h3 align="center">A passionate self-taught full stack web developer from India. I take great care in the architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchiss&label=Profile%20views&color=0e75b6&style=flat" alt="kanchiss" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/kanchiss?label=follow&style=social" alt="kanchiss" /> </p>
 
 - 🌱 I’m currently learning **Flutter 3.13**
 

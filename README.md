@@ -14,9 +14,8 @@ I am a Full-time Software Developer with a comprehensive skill set that includes
 <p align="left"> <img src="https://img.shields.io/github/followers/kanchiss?label=follow&style=social" alt="kanchiss" /> </p>
 
 ## My Values 🔖
-- **Creativity**: Continuously exploring new ways to enhance the visual and functional aspects of applications.
-- **Precision**: Diligent about details, striving for excellence in every line of code and design.
-- **Collaboration**: Enthusiastic about working with diverse teams to leverage collective strengths and insights.
+- Always finding new ways to improve how applications look and work.
+- Careful attention to every detail, aiming for top quality in every part of coding and design.
 
 ## Ask Me About 📬
 Feel free to reach out if you have any questions or need help with:

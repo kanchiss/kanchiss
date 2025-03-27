@@ -27,7 +27,7 @@ Feel free to reach out if you have any questions or need help with:
 - **Leetcode**: [Click here.](https://leetcode.com/kanchisaraf/)
 
 ## My GitHub Contributions 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchiss&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchiss&show_icons=true&hide=contribs,prs)
 
 ---
 

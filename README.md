@@ -1,10 +1,10 @@
 # Hello, I'm Kanchi Saraf 👋
 
 ## About Me 🚀
-I am a Full-time Software Developer with a comprehensive skill set that includes HTML, CSS, JavaScript, Angular 16, C#, MySQL, TypeScript, ASP.NET Core, MongoDB, and Node.js. My expertise spans across both frontend and backend development, enabling me to build seamless, scalable, and robust web applications. In addition to my technical skills, I have a keen interest in graphic design to create visually appealing and user-friendly designs. My passion for both development and design drives me to integrate aesthetic elements into functional applications, providing an enriched user experience.
+I am a Full-time Software Developer with a comprehensive skill set that includes HTML, CSS, JavaScript, Angular 19, C#, MySQL, TypeScript, ASP.NET Core, MongoDB, and Node.js. My expertise spans across both frontend and backend development, enabling me to build seamless, scalable, and robust web applications.
 
 ## Tech Stack 🛠️
-- **Frontend**: HTML, CSS, JavaScript, Angular 17, TypeScript
+- **Frontend**: HTML, CSS, JavaScript, Angular 19, TypeScript
 - **Backend**: C#, ASP.NET Core, Node.js, MongoDB
 - **Database**: MySQL, MongoDB
 - **Design**: Figma

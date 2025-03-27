@@ -26,9 +26,6 @@ Feel free to reach out if you have any questions or need help with:
 - **LinkedIn**: [Click here.](https://linkedin.com/in/kanchi-s)
 - **Leetcode**: [Click here.](https://leetcode.com/kanchisaraf/)
 
-## My GitHub Contributions 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchiss&show_icons=true&hide=contribs,prs)
-
 ---
 
 > Passionate about technology and innovation, I am always looking to connect with like-minded professionals and explore new technologies.
